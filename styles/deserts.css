@@ -1,0 +1,11 @@
+.desert{
+    height: 100vh;
+}
+
+.deserts_art{
+    display: block;
+}
+
+.article{
+    flex-wrap: wrap;
+}
